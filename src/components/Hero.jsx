@@ -4,11 +4,10 @@ const Hero = () => {
   return (
     <section id="home" className="hero">
       <div className="container">
-        <h1>John Doe</h1>
-        <p>Full Stack Developer & UI/UX Designer</p>
+        <h1>New User </h1>
+        <p>Ai developer and Enginner and mlops engineer</p>
         <p>
-          I create beautiful, functional web applications with modern
-          technologies. Passionate about clean code and great user experiences.
+         uuuuuuuuuuuuuuuuuuuuuuuu
         </p>
         <a href="#projects" className="btn">
           View My Work
